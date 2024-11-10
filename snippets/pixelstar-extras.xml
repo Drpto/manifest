@@ -18,6 +18,7 @@
   <!-- Prebuilts repos -->
   <project path="prebuilts/custom-sdk" name="prebuilts_custom-sdk" remote="pixelstar" />
   <project path="prebuilts/module_sdk" name="prebuilts_module_sdk" remote="tpp-gitlab" />
+  <project path="prebuilts/calyx/datura" name="platform_prebuilts_calyx_datura" remote="CalyxOS-gitlab" revision="android14" />
 
   <!-- Google repos -->
   <project path="vendor/google/dexopt_profiles" name="vendor_google_dexopt_profiles" remote="tpp-gitlab" />
