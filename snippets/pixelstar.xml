@@ -146,7 +146,7 @@
   <project path="vendor/google/gms" name="vendor_google_gms" remote="pixelstar-gitlab" />
   <project path="vendor/custom-preference" name="vendor_custom-preference" remote="pixelstar" />
   <project path="vendor/official_devices" name="official_devices" remote="pixelstar" revision="14"/>
-  <project path="vendor/pixelstar" name="vendor_pixelstar" remote="pixelstar" />
+  <project path="vendor/pixelstar" name="vendor_pixelstar" remote="Drpto" />
   <project path="vendor/microsoft/mms" name="vendor_microsoft_mms" remote="pixelstar-gitlab" />
   <project path="vendor/apps" name="vendor_apps" remote="pixelstar-gitlab" />
 
